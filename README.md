@@ -1,3 +1,14 @@
+# Random Meme Generator Webapp
+This is a web application that allows users to generate and customize memes. It provides an intuitive interface where users can select an image, add text captions, and generate a meme with their customizations. The application is built using React and utilizes popular libraries such as `react-dom` and `react-router` for rendering and routing.
+
+## Features
+
+- Choose from a collection of pre-selected images for memes.
+- Add custom text captions to the top and bottom of the image.
+- Customize the font style, size, and color of the text.
+- Generate a meme with the chosen image and text captions.
+- Download the generated meme as an image file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
